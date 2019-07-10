@@ -28,7 +28,7 @@ function Contact() {
                 <div className="form-row">
                     <div className="form-group col-md-6">
                         <label htmlFor="inputCity">City</label>
-                        <input type="text" className="form-control" name="City" />
+                        <input type="text" className="form-control" name="City" placeholder="City" />
                     </div>
                     <div className="form-group col-md-4">
                         <label htmlFor="inputState">State</label>
@@ -88,7 +88,7 @@ function Contact() {
                     </div>
                     <div className="form-group col-md-2">
                         <label htmlFor="inputZip">Zip</label>
-                        <input type="text" className="form-control" name="Zip" />
+                        <input type="text" className="form-control" name="Zip" placeholder="Zip" />
                     </div>
                 </div>
                 <div className="form-group">

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d5a3577-5664-4510-8220-3f256e5e8621" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Componants/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Componants/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Componants/Pages/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Componants/Pages/Contact.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Componants/Pages/Courses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Componants/Pages/Courses.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Componants/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Componants/Pages/Home.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,11 +28,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="1972">
               <caret line="116" column="17" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Courses.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Contact.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="90" column="95" selection-start-line="90" selection-start-column="95" selection-end-line="90" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -61,11 +77,11 @@
         <option value="$PROJECT_DIR$/src/Componants/NavBar.js" />
         <option value="$PROJECT_DIR$/public/_redirects" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/Componants/Pages/Contact.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/Componants/Footer.js" />
-        <option value="$PROJECT_DIR$/src/Componants/Pages/Courses.js" />
         <option value="$PROJECT_DIR$/src/Componants/Pages/Home.js" />
+        <option value="$PROJECT_DIR$/src/Componants/Pages/Courses.js" />
+        <option value="$PROJECT_DIR$/src/Componants/Pages/Contact.js" />
       </list>
     </option>
   </component>
@@ -94,16 +110,6 @@
             <path>
               <item name="mom_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="mom_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mom_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mom_site" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mom_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mom_site" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mom_site" type="b2602c69:ProjectViewProjectNode" />
@@ -168,12 +174,12 @@
       <workItem from="1562648191988" duration="30248000" />
       <workItem from="1562710000247" duration="99000" />
       <workItem from="1562725040850" duration="4430000" />
-      <workItem from="1562741607388" duration="4207000" />
+      <workItem from="1562741607388" duration="4787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47146000" />
+    <option name="totallyTimeSpent" value="47726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
@@ -251,23 +257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Contact.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="97" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -288,20 +277,37 @@
     <entry file="file://$PROJECT_DIR$/public/img-placeholder.1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Courses.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="54" column="79" selection-start-line="54" selection-start-column="79" selection-end-line="54" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/classroom.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="1972">
           <caret line="116" column="17" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Courses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="90" column="95" selection-start-line="90" selection-start-column="95" selection-end-line="90" selection-end-column="95" />
         </state>
       </provider>
     </entry>

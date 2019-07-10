@@ -13,7 +13,8 @@ function Courses() {
                         <p>
                             Whether you’re considering a career change or just starting your journey, our Esthetics Course
                             offers everything you need. This is a 750 hour TDLR approved training in Facials, Make Up,
-                            Hair Removal, Business and so much more.  Contact us today for more information.
+                            Hair Removal, Business and so much more.  Contact us today for more information. <a href='/Contact'>
+                            Contact </a> us now to sign up or to schedule your tour.
                         </p>
                     </div>
                     <div className="p-2">
@@ -43,6 +44,7 @@ function Courses() {
                         <p>
                             This is a 750 hour TDLR approved course that will prepare you for both classroom and practical instruction.
                             There is a 500 hour course available if you have been the in industry for at least one year.
+                            <a href='/Contact'> Contact </a> us now to sign up or to schedule your tour.
                         </p>
                     </div>
                     <div className="p-2">
