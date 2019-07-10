@@ -8,8 +8,8 @@ function Contact() {
                   method="POST">
                 <div className="form-row">
                     <div className="form-group col-md-6">
-                        <label htmlFor="inputText">First Name</label>
-                        <input type="text" className="form-control" name="Name" placeholder="First Name" />
+                        <label htmlFor="inputText">Full Name</label>
+                        <input type="text" className="form-control" name="Name" placeholder="Full Name" />
                     </div>
                     <div className="form-group col-md-6">
                         <label htmlFor="inputEmail4">Email</label>
