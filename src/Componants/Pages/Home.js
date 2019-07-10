@@ -11,7 +11,7 @@ function Home() {
                             Brenda Crump, Owner and Lead Instructor, has been in the industry for over 20 years.  The Academy was created
                             to offer an advanced training program beyond what is currently available at other schools.  The programs
                             include theory and hands-on practice, as well as additional focus on business skills, personal development, and
-                            interaction with the community.  If you are interested in learning more visit our <a href='/Courses'> courses </a>
+                            interaction with the community.  If you are interested in learning more, visit our <a href='/Courses'> courses </a>
                             page or feel free to <a href='/Contact'>contact</a> us.
                         </p>
                 </div>
@@ -46,7 +46,7 @@ function Home() {
                 <div className='p-2' style={aboutStyle}>
                     <h3>Why PSCA</h3>
                     <p>
-                        Professional Skin Care Academy's main focus is, and always will be, the student.  Our small class size brings the
+                        Professional Skin Care Academy's main focus is, and always will be, the student.  Our small class size brings
                         personalized instruction so every student can exceed the State Board standards.  We not
                         only ensure our students are prepared for the State Board exam, but also ensure they are ready
                         to begin an exciting career as an Esthetician.  We have classes starting regularly, so when you are ready
@@ -54,7 +54,7 @@ function Home() {
                     </p>
                 </div>
             </div>
-            <div id="carouselExampleControls" className="carousel slide d-flex flex-row align-items-center" data-ride="carousel" style={reviewStyle}>
+            <div id="carousel2ExampleControls" className="carousel slide d-flex flex-row align-items-center" data-ride="carouse2" style={reviewStyle}>
                 <div className="carousel-inner">
                     <div className="carousel-item active">
                         <blockquote className="blockquote text-center">
@@ -83,11 +83,11 @@ function Home() {
                         </blockquote>
                     </div>
                 </div>
-                <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev" style={caroselLStyle}>
+                <a className="carousel-control-prev" href="#carousel2ExampleControls" role="button" data-slide="prev" style={caroselLStyle}>
                     <span className="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span className="sr-only">Previous</span>
                 </a>
-                <a className="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next" style={caroselRStyle}>
+                <a className="carousel-control-next" href="#carousel2ExampleControls" role="button" data-slide="next" style={caroselRStyle}>
                     <span className="carousel-control-next-icon" aria-hidden="true"></span>
                     <span className="sr-only">Next</span>
                 </a>
