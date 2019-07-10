@@ -3,7 +3,7 @@ import React from 'react';
 function Contact() {
     return (
         <div>
-            <h2 style={titleStyle}>For more information, or to schedule a tour, please contact us.</h2>
+            <h2 style={titleStyle}>contact us</h2>
             <form style={formStyle} action="https://mailthis.to/brenda.psca@gmail.com"
                   method="POST">
                 <div className="form-row">
@@ -92,7 +92,7 @@ function Contact() {
                     </div>
                 </div>
                 <div className="form-group">
-                    <p> Select the programs you would like information on. </p>
+                    <p> Select the program(s) you are interested in:</p>
                     <div className="form-check">
                         <input className="form-check-input" type="checkbox" name="Esthetician" />
                             <label className="form-check-label" htmlFor="gridCheck">
@@ -113,7 +113,7 @@ function Contact() {
                 <input type="hidden" name="_confirmation" value="Message has been sent, We will be in touch as soon as possible." />
             </form>
             <div className='container-fluid' style={addressStyle}>
-                <h3>Find us at</h3><br />
+                <h2>VISIT US</h2><br />
             </div>
 
             <div className="container-fluid row" style={addressStyle}>

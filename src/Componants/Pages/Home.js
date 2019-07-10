@@ -9,8 +9,8 @@ function Home() {
                         <h3>About Our Academy</h3>
                         <p>
                             Brenda Crump, Owner and Lead Instructor, has been in the industry for over 20 years.  The Academy was created
-                            to offer a more advanced training program based on what is currently avalible at other schools.  The programs
-                            offered are based in theory and hands-on, but also include a focus on business, personal development, and
+                            to offer an advanced training program beyond what is currently available at other schools.  The programs
+                            include theory and hands-on practice, as well as additional focus on business skills, personal development, and
                             interaction with the community.  If you are interested in learning more visit our <a href='/Courses'> courses </a>
                             page or feel free to <a href='/Contact'>contact</a> us.
                         </p>
@@ -46,11 +46,11 @@ function Home() {
                 <div className='p-2' style={aboutStyle}>
                     <h3>Why PSCA</h3>
                     <p>
-                        Professional Skin Care Academy's main focus is, and always will be, the Student.  Our small class sizes bring the
-                        personalized instruction need so every Student can exceed the State Board standards.  We not
-                        only ensure our Students are prepared for the State Board exams, but also ensure they are ready
-                        to begin an exciting career as an Esthetician.  We have classes starting regularly, so if you are ready
-                        to get stated or interested in a tour of the school, please feel free to <a href='/Contact'>contact</a> us.
+                        Professional Skin Care Academy's main focus is, and always will be, the student.  Our small class size brings the
+                        personalized instruction so every student can exceed the State Board standards.  We not
+                        only ensure our students are prepared for the State Board exam, but also ensure they are ready
+                        to begin an exciting career as an Esthetician.  We have classes starting regularly, so when you are ready
+                        to get started <a href='/Contact'>contact</a> us for a tour.
                     </p>
                 </div>
             </div>
@@ -58,27 +58,27 @@ function Home() {
                 <div className="carousel-inner">
                     <div className="carousel-item active">
                         <blockquote className="blockquote text-center">
-                            <p className="mb-0">Brenda is an amazing esthetics educator. Everyday she was so motivating and inspiring,
+                            <p className="mb-0">"Brenda is an amazing esthetics educator. Everyday she was so motivating and inspiring,
                                 she made me realize why I was there and why I was changing my future. No matter the class size,
                                 she makes sure you get the one on one time you need to succeed. She has a vast knowledge of both esthetics and cosmetology,
                                 so you leave knowing everything in the curriculum and then some. You’ll leave her program feeling confident and
-                                fully prepared for your future in esthetics.</p>
+                                fully prepared for your future in esthetics."</p>
                             <footer className="blockquote-footer">Leannah Hays<cite title="Source Title"> Google Review</cite></footer>
                         </blockquote>
                     </div>
                     <div className="carousel-item">
                         <blockquote className="blockquote text-center">
-                            <p className="mb-0">Brenda is an amazing teacher and all around amazing person! She is so knowledgeable
-                                and really goes above and beyond for her students. Couldn’t recommend her enough, she’s the best.</p>
+                            <p className="mb-0">"Brenda is an amazing teacher and all around amazing person! She is so knowledgeable
+                                and really goes above and beyond for her students. Couldn’t recommend her enough, she’s the best."</p>
                             <footer className="blockquote-footer">Faith Brewer<cite title="Source Title"> Google Review</cite></footer>
                         </blockquote>
                     </div>
                     <div className="carousel-item">
                         <blockquote className="blockquote text-center">
-                            <p className="mb-0">Brenda is the best! Very intuitive and energetic! She has an extremely huge heart and
+                            <p className="mb-0">"Brenda is the best! Very intuitive and energetic! She has an extremely huge heart and
                                 sincerely cares for her students. She is very knowledgeable in skin care and makes her curriculum super
                                 fun so her students want to learn more and more.  She has fun and catchy phrases to help you remember
-                                things and has a positive daily quote that helps everyone stay motivated. She is the best educator I've ever had!!</p>
+                                things and has a positive daily quote that helps everyone stay motivated. She is the best educator I've ever had!!"</p>
                             <footer className="blockquote-footer">Sunsh Marie <cite title="Source Title">Google Review</cite></footer>
                         </blockquote>
                     </div>
