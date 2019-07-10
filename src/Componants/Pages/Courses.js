@@ -32,8 +32,6 @@ function Courses() {
                             <li>Galvanic</li>
                             <li>Ear Candling</li>
                             <li>and More.....</li>
-
-
                         </ul>
                     </div>
                 </div>
@@ -46,6 +44,17 @@ function Courses() {
                             This is a 750 hour TDLR approved course that will prepare you for both classroom and practical instruction.
                             There is a 500 hour course available if you have been the in industry for at least one year.
                         </p>
+                    </div>
+                    <div className="p-2">
+                        <h4>Skills You Will Learn</h4>
+                        <ul>
+                            <li>Program and Lesson Plan Development</li>
+                            <li>Classroom Management</li>
+                            <li>Supervision</li>
+                            <li>Using Technology in the Classroom</li>
+                            <li>Hands-On Instruction Leading the Classroom</li>
+                            <li>and More.....</li>
+                        </ul>
                     </div>
                 </div>
             </div>

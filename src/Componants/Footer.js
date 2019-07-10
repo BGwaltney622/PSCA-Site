@@ -11,6 +11,7 @@ function Footer() {
                     <a href="https://www.facebook.com/PSCAWaxahachie/" className="fa fa-facebook"></a>
                     <a href="https://www.instagram.com/pscalife/?hl=en" className="fa fa-instagram"></a>
                     <a href="https://www.linkedin.com/in/brenda-crump-17852192?trk=people-guest_profile-result-card_result-card_full-click" className="fa fa-linkedin"></a>
+                    <a href="https://brendascornerpsca.blogspot.com/" className="fa fa-google"></a>
                 </div>
 
             </footer>

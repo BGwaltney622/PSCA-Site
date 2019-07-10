@@ -16,7 +16,32 @@ function Home() {
                         </p>
                 </div>
                 <div className="p-2" style={aboutImgStyle}>
-                    <img src='img-placeholder.1.jpg' className='img-fluid img-thumbnail mx-auto d-block' alt='' />
+                    <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
+                        <div className="carousel-inner">
+                            <div className="carousel-item active">
+                                <img className="d-block w-100" src="Frontsize.JPG" alt="First slide" />
+                            </div>
+                            <div className="carousel-item">
+                                <img className="d-block w-100" src="classroomsize.jpeg" alt="Second slide" />
+                            </div>
+                            <div className="carousel-item">
+                                <img className="d-block w-100" src="rowTablessize.jpg" alt="Third slide" />
+                            </div>
+                            <div className="carousel-item">
+                                <img className="d-block w-100" src="Tablesize.jpg" alt="Third slide" />
+                            </div>
+                        </div>
+                        <a className="carousel-control-prev" href="#carouselExampleControls" role="button"
+                           data-slide="prev">
+                            <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span className="sr-only">Previous</span>
+                        </a>
+                        <a className="carousel-control-next" href="#carouselExampleControls" role="button"
+                           data-slide="next">
+                            <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span className="sr-only">Next</span>
+                        </a>
+                    </div>
                 </div>
                 <div className='p-2' style={aboutStyle}>
                     <h3>Why PSCA</h3>
@@ -88,8 +113,8 @@ const aboutStyle = {
 }
 
 const aboutImgStyle = {
-    // height: '400px',
-    // width: '250px',
+    height: '30%',
+    width: '30%',
     margin:'auto',
     paddingTop: '10px',
 }
