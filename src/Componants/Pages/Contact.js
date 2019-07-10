@@ -157,10 +157,9 @@ const btnStyle = {
 }
 
 const formStyle = {
-    paddingTop: '30px',
-    paddingLeft: '250px',
-    paddingRight: '250px',
-    paddingBottom: '40px',
+    margin: 'auto',
+    height: '100%',
+    padding: '2% 10%',
 
 }
 

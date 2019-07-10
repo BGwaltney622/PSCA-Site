@@ -4,20 +4,15 @@ function Courses() {
     return (
         <div>
             <img src="facebook_cover_photo_2.jpg" className="img-fluid" style={imageStyle} alt='' />
-            <div className='d-flex flex-row'>
-                <div className="d-flex flex-column" style={aboutStyle}>
-                    <div className='p-2'>
+            <div className='d-flex flex-wrap align-content-around'>
+                <div className="p-2" style={eCourseStyle}>
                         <h3>Esthetician Course</h3>
-                    </div>
-                    <div className="p-2">
                         <p>
                             Whether you’re considering a career change or just starting your journey, our Esthetics Course
                             offers everything you need. This is a 750 hour TDLR approved training in Facials, Make Up,
                             Hair Removal, Business and so much more.  Contact us today for more information. <a href='/Contact'>
                             Contact </a> us now to sign up or to schedule your tour.
                         </p>
-                    </div>
-                    <div className="p-2">
                         <h4>Skills You Will Learn</h4>
                         <ul>
                             <li>Facials</li>
@@ -34,20 +29,14 @@ function Courses() {
                             <li>Ear Candling</li>
                             <li>and More.....</li>
                         </ul>
-                    </div>
                 </div>
-                <div className="d-flex flex-column" style={whyStyle}>
-                    <div className='p-2'>
+                <div className="p-2" style={iCourseStyle}>
                         <h3>Instructor Course</h3>
-                    </div>
-                    <div className="p-2">
                         <p>
                             This is a 750 hour TDLR approved course that will prepare you for both classroom and practical instruction.
                             There is a 500 hour course available if you have been the in industry for at least one year.
                             <a href='/Contact'> Contact </a> us now to sign up or to schedule your tour.
                         </p>
-                    </div>
-                    <div className="p-2">
                         <h4>Skills You Will Learn</h4>
                         <ul>
                             <li>Program and Lesson Plan Development</li>
@@ -57,7 +46,6 @@ function Courses() {
                             <li>Hands-On Instruction Leading the Classroom</li>
                             <li>and More.....</li>
                         </ul>
-                    </div>
                 </div>
             </div>
         </div>
@@ -68,24 +56,18 @@ const imageStyle = {
     paddingTop: '50px',
 }
 
-const aboutStyle = {
+const eCourseStyle = {
     height: '100%',
-    width: '50%',
-    marginLeft: '5%',
-    marginRight: '5%',
-    marginTop: '25px',
-    marginBottom: '20px',
+    width: '400px',
+    margin: 'auto',
     lineHeight: '30px',
 }
 
 
-const whyStyle = {
+const iCourseStyle = {
     height: '100%',
-    width: '50%',
-    marginRight: '5%',
-    marginLeft: '5%',
-    marginTop: '25px',
-    marginBottom: '20px',
+    width: '400px',
+    marginRight: 'auto',
     lineHeight: '30px',
 }
 
