@@ -16,7 +16,7 @@ function Home() {
                         </p>
                 </div>
                 <div className="p-2" style={aboutImgStyle}>
-                    <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
+                    <div id="carousel-1" className="carousel slide" data-ride="carousel">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
                                 <img className="d-block w-100" src="Frontsize.JPG" alt="First slide" />
@@ -31,12 +31,12 @@ function Home() {
                                 <img className="d-block w-100" src="Tablesize.jpg" alt="Third slide" />
                             </div>
                         </div>
-                        <a className="carousel-control-prev" href="#carouselExampleControls" role="button"
+                        <a className="carousel-control-prev" href="#carousel-1" role="button"
                            data-slide="prev">
                             <span className="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span className="sr-only">Previous</span>
                         </a>
-                        <a className="carousel-control-next" href="#carouselExampleControls" role="button"
+                        <a className="carousel-control-next" href="#carousel-1" role="button"
                            data-slide="next">
                             <span className="carousel-control-next-icon" aria-hidden="true"></span>
                             <span className="sr-only">Next</span>
@@ -54,7 +54,7 @@ function Home() {
                     </p>
                 </div>
             </div>
-            <div id="carousel2ExampleControls" className="carousel slide d-flex flex-row align-items-center" data-ride="carouse2" style={reviewStyle}>
+            <div id="carousel-2" className="carousel slide d-flex flex-row align-items-center" data-ride="carouse2" style={reviewStyle}>
                 <div className="carousel-inner">
                     <div className="carousel-item active">
                         <blockquote className="blockquote text-center">
@@ -83,11 +83,11 @@ function Home() {
                         </blockquote>
                     </div>
                 </div>
-                <a className="carousel-control-prev" href="#carousel2ExampleControls" role="button" data-slide="prev" style={caroselLStyle}>
+                <a className="carousel-control-prev" href="#carousel-2" role="button" data-slide="prev" style={caroselLStyle}>
                     <span className="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span className="sr-only">Previous</span>
                 </a>
-                <a className="carousel-control-next" href="#carousel2ExampleControls" role="button" data-slide="next" style={caroselRStyle}>
+                <a className="carousel-control-next" href="#carousel-2" role="button" data-slide="next" style={caroselRStyle}>
                     <span className="carousel-control-next-icon" aria-hidden="true"></span>
                     <span className="sr-only">Next</span>
                 </a>
@@ -113,8 +113,8 @@ const aboutStyle = {
 }
 
 const aboutImgStyle = {
-    height: '30%',
-    width: '30%',
+    height: '400px',
+    width: '400px',
     margin:'auto',
     paddingTop: '10px',
 }
