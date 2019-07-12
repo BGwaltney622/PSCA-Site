@@ -8,24 +8,27 @@ function Home() {
                 <div className='p-2' style={aboutStyle}>
                         <h3>About Our Academy</h3>
                         <p>
-                            Brenda Crump, Owner and Lead Instructor, has been in the industry for over 20 years.  The Academy was created
-                            to offer an advanced training program beyond what is currently available at other schools.  The programs
-                            include theory and hands-on practice, as well as additional focus on business skills, personal development, and
-                            interaction with the community.  If you are interested in learning more, visit our <a href='/Courses'> courses </a>
-                            page or feel free to <a href='/Contact'>contact</a> us.
+                            Brenda Crump, Owner and Lead Instructor, has been in the industry for over 20 years and has experience
+                            as a business owner, instructor, and in program/curriculum development. Throughout her career, Brenda
+                            has established strong relationships working with schools such as Ogle, Paul Mitchell, Aveda and Dallas Skin Institute.
+                            The Academy was created to provide an enhanced training experience that will allow students to develop a
+                            successful, well-rounded career. PSCA uses theory and hands-on experience to teach the technical skills required to
+                            pass the state board exams, but also incorporates focused training on professional development, business fundamentals,
+                            and the importance of community involvement. If you are interested in learning more visit our  <a href='/Courses'>courses </a> page or feel free to
+                            <a href='/Contact'> contact</a> us.
                         </p>
                 </div>
                 <div className="p-2" style={aboutImgStyle}>
                     <div id="carousel-1" className="carousel slide" data-ride="carousel">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img className="d-block w-100" src="Frontsize.JPG" alt="First slide" />
+                                <img className="d-block w-100" src="FrontPic.jpg" alt="First slide" />
                             </div>
                             <div className="carousel-item">
                                 <img className="d-block w-100" src="classroomsize.jpeg" alt="Second slide" />
                             </div>
                             <div className="carousel-item">
-                                <img className="d-block w-100" src="rowTablessize.jpg" alt="Third slide" />
+                                <img className="d-block w-100" src="TablePicsSize.jpg" alt="Third slide" />
                             </div>
                             <div className="carousel-item">
                                 <img className="d-block w-100" src="Tablesize.jpg" alt="Third slide" />
@@ -46,14 +49,15 @@ function Home() {
                 <div className='p-2' style={aboutStyle}>
                     <h3>Why PSCA</h3>
                     <p>
-                        Professional Skin Care Academy's main focus is, and always will be, the student.  Our small class size brings
-                        personalized instruction so every student can exceed the State Board standards.  We not
-                        only ensure our students are prepared for the State Board exam, but also ensure they are ready
-                        to begin an exciting career as an Esthetician.  We have classes starting regularly, so when you are ready
-                        to get started <a href='/Contact'>contact</a> us for a tour.
+                        Professional Skin Care Academy's main focus is, and always will be, the Student. Our small class
+                        sizes bring personalized instruction not available in larger schools. It also provides a flexible
+                        training environment where we can meet the students where they are, and teach more than just the exam.
+                        Our students will leave PSCA as skilled estheticians with the business and personal skills needed to
+                        create successful careers.  We have classes starting regularly, so if you are ready to get started
+                        or interested in a tour of the school, <a href='/Contact'>contact</a> us.
                     </p>
                 </div>
-            </div>
+            </div><hr />
             <div id="carousel-2" className="carousel slide d-flex flex-row align-items-center" data-ride="carouse2" style={reviewStyle}>
                 <div className="carousel-inner">
                     <div className="carousel-item active">

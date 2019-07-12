@@ -39,11 +39,10 @@ function Courses() {
                     </p>
                     <h4>Skills You Will Learn</h4>
                     <ul>
-                        <li>Program and Lesson Plan Development</li>
+                        <li>Lesson Plan Development</li>
                         <li>Classroom Management</li>
-                        <li>Supervision</li>
                         <li>Using Technology in the Classroom</li>
-                        <li>Hands-On Instruction Leading the Classroom</li>
+                        <li>Practical Teaching Experience</li>
                         <li>and More.....</li>
                     </ul>
                 </div>

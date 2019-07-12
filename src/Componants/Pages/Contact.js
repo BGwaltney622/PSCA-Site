@@ -112,10 +112,9 @@ function Contact() {
                 <input type="hidden" name="_honeypot" value="" />
                 <input type="hidden" name="_confirmation" value="Message has been sent, We will be in touch as soon as possible." />
             </form>
-            <div className='container-fluid' style={addressStyle}>
+            <div className='container-fluid' style={addressStyle}><hr />
                 <h2>VISIT US</h2><br />
             </div>
-
             <div className="container-fluid row" style={addressStyle}>
                 <div className='col'>
                     <h5>401 5th Street Suite A</h5>
