@@ -108,7 +108,7 @@ function Contact() {
                 </div>
                 <button onClick="/home" type="submit" value="Send" className="btn" style={btnStyle}>Submit</button>
                 <input type="hidden" name="_subject" value="Information Request" />
-                <input type="hidden" name="_after" value="/Contact" />
+                <input type="hidden" name="_after" value="https://www.professionalskincareacademy.com/" />
                 <input type="hidden" name="_honeypot" value="" />
                 <input type="hidden" name="_confirmation" value="Message has been sent, We will be in touch as soon as possible." />
             </form>
