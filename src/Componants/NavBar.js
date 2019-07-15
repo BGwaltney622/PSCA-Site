@@ -20,6 +20,9 @@ function Nav() {
                         <li className="nav-item">
                             <a className="nav-link" href="Contact">Contact</a>
                         </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href="https://brendascornerpsca.blogspot.com/">Brenda's Blog</a>
+                        </li>
                     </ul>
                 </div>
             </nav>

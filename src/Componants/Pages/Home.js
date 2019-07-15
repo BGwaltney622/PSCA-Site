@@ -8,14 +8,13 @@ function Home() {
                 <div className='p-2' style={aboutStyle}>
                         <h3>About Our Academy</h3>
                         <p>
-                            Brenda Crump, Owner and Lead Instructor, has been in the industry for over 20 years and has experience
-                            as a business owner, instructor, and in program/curriculum development. Throughout her career, Brenda
-                            has established strong relationships working with schools such as Ogle, Paul Mitchell, Aveda and Dallas Skin Institute.
-                            The Academy was created to provide an enhanced training experience that will allow students to develop a
-                            successful, well-rounded career. PSCA uses theory and hands-on experience to teach the technical skills required to
-                            pass the state board exams, but also incorporates focused training on professional development, business fundamentals,
-                            and the importance of community involvement. If you are interested in learning more visit our  <a href='/Courses'>courses </a> page or feel free to
-                            <a href='/Contact'> contact</a> us.
+                            Professional Skin Care Academy is located in Waxahachie, Texas and offers both full and part
+                            time class schedules for aspiring estheticians and educators. Class size is limited to 12
+                            students which allows for a personalized learning environment. The curriculum is approved by
+                            the Texas Department of Licensing and Regulation, and completion of the program will prepare
+                            students to test for the State License. In as little as 6 months, graduates will be starting
+                            exciting new careers as licensed estheticians. To learn more, visit our <a href='/Courses'> courses</a> page or feel
+                            free to <a href='/Contact'> contact</a> us.
                         </p>
                 </div>
                 <div className="p-2" style={aboutImgStyle}>
@@ -49,12 +48,12 @@ function Home() {
                 <div className='p-2' style={aboutStyle}>
                     <h3>Why PSCA</h3>
                     <p>
-                        Professional Skin Care Academy's main focus is, and always will be, the Student. Our small class
-                        sizes bring personalized instruction not available in larger schools. It also provides a flexible
-                        training environment where we can meet the students where they are, and teach more than just the exam.
-                        Our students will leave PSCA as skilled estheticians with the business and personal skills needed to
-                        create successful careers.  We have classes starting regularly, so if you are ready to get started
-                        or interested in a tour of the school, <a href='/Contact'>contact</a> us.
+                        The Academy was designed by utilizing over 20 years of experience in the industry.  Training and
+                        working at Ogle, Paul Mitchell and Aveda, and setting up the Esthetics program at Dallas Skin Institute
+                        allowed the opportunity to work with numerous product lines, textbooks and teaching platforms. Valuable
+                        knowledge was also gained by listening to  students input on what they enjoyed, and what they felt was missing
+                        in their education. That was the creative concept behind why this Academy was started, and what is the heart
+                        of Professional Skin Care Academy.
                     </p>
                 </div>
             </div><hr />

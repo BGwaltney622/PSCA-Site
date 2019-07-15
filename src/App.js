@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './App.css';
 import {BrowserRouter as Router, Route} from 'react-router-dom'
 import NavBar from './Componants/NavBar'
@@ -10,17 +10,17 @@ import Contact from './Componants/Pages/Contact'
 
 
 function App() {
-  return (
-      <Router>
-        <div className="App">
-          <NavBar />
-          <Route exact path='/' component={Home} />
-          <Route exact path='/Courses' component={Courses} />
-          <Route exact path='/Contact' component={Contact} />
-          <Footer/>
-        </div>
-      </Router>
-  );
+        return (
+            <Router>
+                <div className="App">
+                    <NavBar/>
+                    <Route exact path='/' component={Home}/>
+                    <Route exact path='/Courses' component={Courses}/>
+                    <Route exact path='/Contact' component={Contact}/>
+                    <Footer/>
+                </div>
+            </Router>
+        );
 }
 
 export default App;
