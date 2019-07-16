@@ -7,23 +7,23 @@ function Contact() {
             <form style={formStyle} action="https://mailthis.to/Brenda"
                   method="POST">
                 <div className="form-row">
-                    <div className="form-group col-md-6">
+                    <div className="form-group col-md-4">
                         <label htmlFor="inputText">Full Name</label>
                         <input type="text" className="form-control" name="Name" placeholder="Full Name" />
                     </div>
-                    <div className="form-group col-md-6">
+                    <div className="form-group col-md-4">
                         <label htmlFor="inputEmail4">Email</label>
                         <input type="email" className="form-control" name="Email" placeholder="Email" />
+                    </div>
+                    <div className="form-group col-md-4">
+                        <label htmlFor="inputPhone">Phone Number</label>
+                        <input type="phone" className="form-control" name="Phone" placeholder="Phone Number" />
                     </div>
                 </div>
                 <div className="form-group">
                     <label htmlFor="inputAddress">Address</label>
-                    <input type="text" className="form-control" name="Address" placeholder="1234 Main St" />
-                </div>
-                <div className="form-group">
-                    <label htmlFor="inputAddress2">Address 2</label>
                     <input type="text" className="form-control" name="Address2"
-                           placeholder="Apartment, studio, or floor" />
+                           placeholder="1234 Main St." />
                 </div>
                 <div className="form-row">
                     <div className="form-group col-md-6">
