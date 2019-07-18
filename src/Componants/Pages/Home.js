@@ -30,6 +30,9 @@ function Home() {
                                 <img className="d-block w-100" src="TablePicsSize.jpg" alt="Third slide" />
                             </div>
                             <div className="carousel-item">
+                                <img className="d-block w-100" src="enterHall.jpg" alt="Third slide" />
+                            </div>
+                            <div className="carousel-item">
                                 <img className="d-block w-100" src="Tablesize.jpg" alt="Third slide" />
                             </div>
                         </div>
