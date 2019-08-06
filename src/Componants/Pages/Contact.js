@@ -4,7 +4,7 @@ function Contact() {
     return (
         <div>
             <h2 style={titleStyle}>contact us</h2>
-            <form style={formStyle} action="https://mailthis.to/Brenda"
+            <form style={formStyle} action="https://mailthis.to/Brenda.PSCA@gmail.com"
                   method="POST">
                 <div className="form-row">
                     <div className="form-group col-md-4">
