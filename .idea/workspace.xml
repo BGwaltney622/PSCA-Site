@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d5a3577-5664-4510-8220-3f256e5e8621" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon - Shortcut.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon - Shortcut.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Componants/Pages/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Componants/Pages/Contact.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,29 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Contact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="129" selection-start-line="11" selection-start-column="129" selection-end-line="11" selection-end-column="129" />
+            <state relative-caret-position="323">
+              <caret line="121" column="51" lean-forward="true" selection-start-line="121" selection-start-column="51" selection-end-line="121" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -76,8 +60,8 @@
         <option value="$PROJECT_DIR$/src/Componants/NavBar.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/Componants/Pages/Home.js" />
-        <option value="$PROJECT_DIR$/src/Componants/Pages/Contact.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/Componants/Pages/Contact.js" />
       </list>
     </option>
   </component>
@@ -99,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,6 +99,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,12 +150,13 @@
       <workItem from="1563429226102" duration="193000" />
       <workItem from="1564730808839" duration="623000" />
       <workItem from="1565123466536" duration="416000" />
-      <workItem from="1565723866860" duration="1020000" />
+      <workItem from="1565723866860" duration="1220000" />
+      <workItem from="1566361403594" duration="697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64243000" />
+    <option name="totallyTimeSpent" value="65140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
@@ -292,17 +277,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Contact.js">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/src/Componants/Pages/Contact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="129" selection-start-line="11" selection-start-column="129" selection-end-line="11" selection-end-column="129" />
+        <state relative-caret-position="323">
+          <caret line="121" column="51" lean-forward="true" selection-start-line="121" selection-start-column="51" selection-end-line="121" selection-end-column="51" />
         </state>
       </provider>
     </entry>

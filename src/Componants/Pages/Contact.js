@@ -4,7 +4,7 @@ function Contact() {
     return (
         <div>
             <h2 style={titleStyle}>contact us</h2>
-            <form style={formStyle} action="https://mailthis.to/Brenda.PSCA@gmail.com"
+            <form style={formStyle} action="https://formsubmit.co/Brenda.PSCA@gmail.com"
                   method="POST">
                 <div className="form-row">
                     <div className="form-group col-md-4">
@@ -13,7 +13,7 @@ function Contact() {
                     </div>
                     <div className="form-group col-md-4">
                         <label htmlFor="inputEmail4">Email</label>
-                        <input type="email" className="form-control" name="Email" placeholder="Email" />
+                        <input type="email" className="form-control" name="email" placeholder="Email Address" />
                     </div>
                     <div className="form-group col-md-4">
                         <label htmlFor="inputPhone">Phone Number</label>
@@ -22,7 +22,7 @@ function Contact() {
                 </div>
                 <div className="form-group">
                     <label htmlFor="inputAddress">Address</label>
-                    <input type="text" className="form-control" name="Address2"
+                    <input type="text" className="form-control" name="Address"
                            placeholder="1234 Main St." />
                 </div>
                 <div className="form-row">
@@ -107,9 +107,11 @@ function Contact() {
                     </div>
                 </div>
                 <button onClick="/home" type="submit" value="Send" className="btn" style={btnStyle}>Submit</button>
+                <input type="hidden" name="_replyto"/>
                 <input type="hidden" name="_subject" value="Information Request" />
-                <input type="hidden" name="_after" value="https://www.professionalskincareacademy.com/" />
-                <input type="hidden" name="_honeypot" value="" />
+                <input type="hidden" name="_next" value="https://www.professionalskincareacademy.com/" />
+                <input type="hidden" name="_honey" />
+                <input type="hidden" name="_template" value="table"/>
                 <input type="hidden" name="_confirmation" value="Message has been sent, We will be in touch as soon as possible." />
             </form>
             <div className='container-fluid' style={addressStyle}><hr />
