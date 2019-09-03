@@ -153,7 +153,8 @@ const addressStyle = {
 }
 
 const btnStyle = {
-    backgroundColor: '#47E4E0',
+    color: '#47E4E0',
+    backgroundColor: 'black',
 
 }
 

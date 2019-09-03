@@ -5,7 +5,7 @@ function Nav() {
         <div>
             <nav className="navbar navbar-expand-md fixed-top navbar-light bg-light">
                 <a className="navbar-brand" href="/">
-                    <img src="/logo.png" width="30" height="30" className="d-inline-block align-top" style={imageStyle} alt=''/>
+                    <img src="/PSCA_ColorLogo_BBG.jpg" width="30" height="30" className="d-inline-block align-top" style={imageStyle} alt=''/>
                     PSCA
                 </a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"

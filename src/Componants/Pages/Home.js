@@ -3,7 +3,9 @@ import React from 'react';
 function Home() {
     return (
         <div>
-            <img src="facebook_cover_photo_2.jpg" className="img-fluid" style={imageStyle} alt='' />
+            <div className='container-fluid' style={imageDiv}>
+            <img src="crop_PSCA_FULL_ColorLogo_BBG.jpg" className="img-fluid" style={imageStyle} alt='' />
+            </div>
             <div className='d-flex flex-wrap align-content-around' style={boxStyle}>
                 <div className='p-2' style={aboutStyle}>
                         <h3>About Our Academy</h3>
@@ -104,7 +106,16 @@ function Home() {
 
 const imageStyle = {
     paddingTop: '50px',
+    display: 'block',
+    marginRight: 'auto',
+    marginLeft: 'auto',
 }
+
+const imageDiv = {
+    width: '100%',
+    backgroundColor: 'black',
+}
+
 
 const boxStyle = {
     margin: 'auto',
