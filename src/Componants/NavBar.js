@@ -15,7 +15,10 @@ function Nav() {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <a className="nav-link" href="Courses">Courses<span className="sr-only">(current)</span></a>
+                            <a className="nav-link" href="Courses">Courses</a>
+                        </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href="Customers">Services</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="Contact">Contact</a>

@@ -92,7 +92,7 @@ function Contact() {
                     </div>
                 </div>
                 <div className="form-group">
-                    <p> Select the program(s) you are interested in:</p>
+                    <p> Select all items you would like to recieve information on:</p>
                     <div className="form-check">
                         <input className="form-check-input" type="checkbox" name="Esthetician" />
                             <label className="form-check-label" htmlFor="gridCheck">
@@ -103,6 +103,12 @@ function Contact() {
                         <input className="form-check-input" type="checkbox" name="Instructor" />
                         <label className="form-check-label" htmlFor="gridCheck">
                             Instructor Program
+                        </label>
+                    </div>
+                    <div className="form-check">
+                        <input className="form-check-input" type="checkbox" name="Appointment/Sevices" />
+                        <label className="form-check-label" htmlFor="gridCheck">
+                            Appointments/Services
                         </label>
                     </div>
                 </div>
