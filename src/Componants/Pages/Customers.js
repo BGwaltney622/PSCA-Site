@@ -34,7 +34,7 @@ function Customers() {
                                 <li>Back/Chest - $30*</li>
                             </ul>
                         </li>
-                        <li>Back Treatments - $35*</li>
+                        <li>Back Treatments - $30*</li>
                         <li>Make Up Application - $10</li>
                         <li>Brow or Lash Tint - $15 for One or $25 for Both</li>
                         <li>Lash Lift - $30</li>
