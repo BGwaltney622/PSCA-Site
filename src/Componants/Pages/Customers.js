@@ -11,22 +11,22 @@ function Customers() {
                     <h3>Services and Prices</h3>
                     <ul>
                         <li>Mini Facial - $20</li>
-                        <li>Facial - $35*</li>
+                        <li>Facial - $30*</li>
                         <p>Mini Facial/Facial Add-ons:
                             <ul>
-                                <li>Microdermabrasion - $30</li>
+                                <li>Microdermabrasion - $25</li>
                                 <li>Galvanic Treatment - $15</li>
                                 <li>High Frequency - $15</li>
                                 <li>Vacuum Pores - $15</li>
-                                <li>Micro-current - $25</li>
-                                <li>LED Light Therapy - $25</li>
+                                <li>Micro-current - $20</li>
+                                <li>LED Light Therapy - $20</li>
                             </ul>
                         </p>
                         <li>Waxing:
                             <ul>
-                                <li>Lip - $10</li>
-                                <li>Brow - $10</li>
-                                <li>Chin - $10</li>
+                                <li>Lip - $6</li>
+                                <li>Brow - $6</li>
+                                <li>Chin - $6</li>
                                 <li>Arms - $20*</li>
                                 <li>Under Arms - $20*</li>
                                 <li>Lower Legs - $20*</li>
@@ -35,9 +35,9 @@ function Customers() {
                             </ul>
                         </li>
                         <li>Back Treatments - $35*</li>
-                        <li>Make Up Application - $15</li>
+                        <li>Make Up Application - $10</li>
                         <li>Brow or Lash Tint - $15 for One or $25 for Both</li>
-                        <li>Lash Lift - $35</li>
+                        <li>Lash Lift - $30</li>
                         <li>Lash Extensions - $50*</li>
                         <li>Electrolysis - $25*</li>
                         <p>* Prices Starting At</p>
