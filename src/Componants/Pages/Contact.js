@@ -137,7 +137,7 @@ function Contact() {
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3368.841644207067!2d-96.84811448450156!3d32.
                         39660638108845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864eefdea1f3f4fb%3A0x30e203dec0c62fdb!2s
                         Professional+Skin+Care+Academy!5e0!3m2!1sen!2sus!4v1562659772213!5m2!1sen!2sus" title='Map'
-                        width="600" height="450" frameBorder="0" style={mapStyle}></iframe>
+                        width="450" height="300" frameBorder="0" style={mapStyle}></iframe>
                 </div>
             </div>
         </div>
