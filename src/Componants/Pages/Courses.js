@@ -2,15 +2,9 @@ import React from 'react';
 
 function Courses() {
     return (
-<<<<<<< HEAD
         <div style={backgroundDiv}>
             <div className='container-fluid' style={imageDiv}>
                 <img src="PSCA_Sign.svg" className="img-fluid" style={imageStyle} alt='' />
-=======
-        <div>
-            <div className='container-fluid' style={imageDiv}>
-                <img src="crop_PSCA_FULL_ColorLogo_BBG.jpg" className="img-fluid" style={imageStyle} alt='' />
->>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
             </div>
             <div className='d-flex flex-wrap align-content-around'>
                 <div className="p-2" style={eCourseStyle}>
@@ -59,31 +53,21 @@ function Courses() {
     );
 }
 
-<<<<<<< HEAD
 const backgroundDiv = {
     background: '#f7f7f7'
 }
 
-=======
->>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
 const imageStyle = {
     paddingTop: '50px',
     display: 'block',
     marginRight: 'auto',
     marginLeft: 'auto',
-<<<<<<< HEAD
     width: '75%'
-=======
->>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
 }
 
 const imageDiv = {
     width: '100%',
-<<<<<<< HEAD
     backgroundColor: 'white',
-=======
-    backgroundColor: 'black',
->>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
 }
 
 const eCourseStyle = {
