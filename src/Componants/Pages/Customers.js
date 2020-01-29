@@ -46,8 +46,8 @@ function Customers() {
                 <div className="p-2" style={iCourseStyle}>
                     <h4>Seasonal Facials</h4>
                     <img src="Charcoal Purity Facial 4x6.jpg" className="img-fluid" alt='' style={facialStyle}/>
-                    <img src="Pumpkin latte facial.jpg" className="img-fluid" alt='' style={facialStyle}/>
-                    <img src="Spiced Cider Facial.jpg" className="img-fluid" alt='' style={facialStyle}/>
+                    <img src="CherryBlossomFacial.jpg" className="img-fluid" alt='' style={facialStyle}/>
+                    <img src="TropicalCocounutFacial.jpg" className="img-fluid" alt='' style={facialStyle}/>
                     <h5 style= {contactStyle}>To Schedule Appointments Contact Us At:</h5>
                     <h5>Phone: (214) 903-7318</h5>
                 </div>
