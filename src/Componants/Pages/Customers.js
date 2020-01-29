@@ -45,7 +45,7 @@ function Customers() {
                 </div>
                 <div className="p-2" style={iCourseStyle}>
                     <h4>Seasonal Facials</h4>
-                    <img src="Charcoal Purity Facial 4x6.jpg" className="img-fluid" alt='' style={facialStyle}/>
+                    <img src="TropicalBeachFacial.jpg" className="img-fluid" alt='' style={facialStyle}/>
                     <img src="CherryBlossomFacial.jpg" className="img-fluid" alt='' style={facialStyle}/>
                     <img src="TropicalCocounutFacial.jpg" className="img-fluid" alt='' style={facialStyle}/>
                     <h5 style= {contactStyle}>To Schedule Appointments Contact Us At:</h5>
