@@ -2,9 +2,15 @@ import React from 'react';
 
 function Customers() {
     return (
+<<<<<<< HEAD
         <div style={backgroundDiv}>
             <div className='container-fluid' style={imageDiv}>
                 <img src="PSCA_Sign.svg" className="img-fluid" style={imageStyle} alt='' />
+=======
+        <div>
+            <div className='container-fluid' style={imageDiv}>
+                <img src="crop_PSCA_FULL_ColorLogo_BBG.jpg" className="img-fluid" style={imageStyle} alt='' />
+>>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
             </div>
             <div className='d-flex flex-wrap align-content-around'>
                 <div className="p-2" style={eCourseStyle}>
@@ -52,43 +58,64 @@ function Customers() {
                     <h5>Phone: (214) 903-7318</h5>
                 </div>
                 <div style={logoStyle}>
+<<<<<<< HEAD
                     <h4 >Proudly Using and Distributing:</h4>
                     <br/>
                     <img src="Skin Script Logo.jpg" className="img-fluid" alt=''/>
                 </div>
                 <div style={logoStyle}>
                     <img src="Hale & Hush.png" className="img-fluid" alt=''/>
+=======
+                <h4 >Proudly Using and Distributing:</h4>
+                <img src="Skin Script Logo.jpg" className="img-fluid" alt=''/>
+>>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
                 </div>
             </div>
         </div>
     );
 }
 
+<<<<<<< HEAD
 const backgroundDiv = {
     background: '#f7f7f7'
 }
 
+=======
+>>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
 const imageStyle = {
     paddingTop: '50px',
     display: 'block',
     marginRight: 'auto',
     marginLeft: 'auto',
+<<<<<<< HEAD
     width: '75%'
+=======
+>>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
 }
 
 const logoStyle = {
     paddingTop: '25px',
+<<<<<<< HEAD
     paddingBottom: '25px',
+=======
+>>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
     display: 'block',
     marginRight: 'auto',
     marginLeft: 'auto',
     textAlign: 'center',
+<<<<<<< HEAD
     width: '100%',
+=======
+>>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
 }
 
 const imageDiv = {
     width: '100%',
+<<<<<<< HEAD
     backgroundColor: 'white',
+=======
+    backgroundColor: 'black',
+>>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
 }
 
 const facialStyle = {

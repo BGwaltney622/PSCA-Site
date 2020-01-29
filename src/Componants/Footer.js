@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 /* eslint-disable jsx-a11y/anchor-has-content */
+=======
+>>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
 import React from 'react';
 import '../App.css';
 
