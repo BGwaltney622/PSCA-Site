@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import React from 'react';
-=======
-import React, { Component } from 'react';
->>>>>>> 08e2613595f636f3bb47b601ecbde64781cdf339
 import './App.css';
 import {BrowserRouter as Router, Route} from 'react-router-dom'
 import NavBar from './Componants/NavBar'
