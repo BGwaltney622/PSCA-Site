@@ -39,7 +39,6 @@ function Customers() {
                         <li>Brow or Lash Tint - $15 for One or $25 for Both</li>
                         <li>Lash Lift - $30</li>
                         <li>Lash Extensions - $50*</li>
-                        <li>Electrolysis - $25*</li>
                         <p>* Prices Starting At</p>
                     </ul>
                 </div>
