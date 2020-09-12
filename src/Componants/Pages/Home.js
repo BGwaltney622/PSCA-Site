@@ -26,16 +26,25 @@ function Home() {
                                 <img className="d-block w-100" src="FrontPic.jpg" alt="First slide" />
                             </div>
                             <div className="carousel-item">
-                                <img className="d-block w-100" src="classroomsize.jpeg" alt="Second slide" />
-                            </div>
-                            <div className="carousel-item">
-                                <img className="d-block w-100" src="TablePicsSize.jpg" alt="Third slide" />
+                                <img className="d-block w-100" src="Sofa.jpg" alt="Second slide" />
                             </div>
                             <div className="carousel-item">
                                 <img className="d-block w-100" src="enterHall.jpg" alt="Third slide" />
                             </div>
                             <div className="carousel-item">
-                                <img className="d-block w-100" src="Tablesize.jpg" alt="Third slide" />
+                                <img className="d-block w-100" src="Classroom_1.jpg" alt="Fourth slide" />
+                            </div>
+                            <div className="carousel-item">
+                                <img className="d-block w-100" src="Classroom_2.jpg" alt="Fifth slide" />
+                            </div>
+                            <div className="carousel-item">
+                                <img className="d-block w-100" src="Makeup.jpg" alt="Sixth slide" />
+                            </div>
+                            <div className="carousel-item">
+                                <img className="d-block w-100" src="TablePicsSize.jpg" alt="Seventh slide" />
+                            </div>
+                            <div className="carousel-item">
+                                <img className="d-block w-100" src="Tablesize.jpg" alt="Eighth slide" />
                             </div>
                         </div>
                         <a className="carousel-control-prev" href="#carousel-1" role="button"
