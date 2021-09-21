@@ -39,7 +39,6 @@ function Customers() {
                         </li>
                         <li>Back Treatments - $25*</li>
                         <li>Make Up Application - $10</li>
-                        <li>Ear Candling - $15</li>
                         <li>Brow or Lash Tint - $15 for One or $25 for Both</li>
                         <li>Lash Lift - $25</li>
                         <li>Lash Extensions - $40*</li>
