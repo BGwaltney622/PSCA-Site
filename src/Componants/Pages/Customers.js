@@ -22,13 +22,17 @@ function Customers() {
               <li>CBD Facial - $35*</li>
               <li>Deluxe Facial - $35*</li>
             </ul>
+            <li>Back Treatments - $25*</li>
             <li>Facial Add-ons:</li>
             <ul>
+              <li>Hydro-Dermabrasion - $25</li>
               <li>Microdermabrasion - $15</li>
               <li>Galvanic Treatment - $15</li>
+              <li>Micro-current - $15</li>
+              <li>Nano Treatment - $15</li>
+              <li>New Face - $15</li>
               <li>High Frequency - $10</li>
               <li>Vacuum Pores - $10</li>
-              <li>Micro-current - $15</li>
               <li>LED Light Therapy - $10</li>
               <li>Facial Cupping - $10</li>
               <li>Jelly Mask - $10</li>
@@ -45,7 +49,6 @@ function Customers() {
               <li>Full Legs - $35*</li>
               <li>Back/Chest - $20*</li>
             </ul>
-            <li>Back Treatments - $25*</li>
             <li>Make Up Application - $10</li>
             <li>Brow or Lash Tints:</li>
             <ul>
