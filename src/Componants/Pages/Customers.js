@@ -19,13 +19,11 @@ function Customers() {
             <ul>
               <li>Mini Facial - $20</li>
               <li>Facial - $25*</li>
-              <li>CBD Facial - $35*</li>
               <li>Deluxe Facial - $35*</li>
             </ul>
             <li>Back Treatments - $25*</li>
             <li>Facial Add-ons:</li>
             <ul>
-              <li>Hydro-Dermabrasion - $25</li>
               <li>Microdermabrasion - $15</li>
               <li>Galvanic Treatment - $15</li>
               <li>Micro-current - $15</li>
