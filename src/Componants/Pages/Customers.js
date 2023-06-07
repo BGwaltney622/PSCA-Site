@@ -97,15 +97,6 @@ function Customers() {
             <img src="Hale & Hush.png" className="img-fluid" alt="" />
           </div>
         </div>
-        <div className="d-flex flex-row justify-content-center">
-          <div className="p-2 w-50">
-            <img
-              src="Cannabis Master Decal.jpeg"
-              className="img-fluid"
-              alt=""
-            />
-          </div>
-        </div>
       </div>
     </div>
   );
