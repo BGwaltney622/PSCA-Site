@@ -38,8 +38,6 @@ function Courses() {
               <li>Brow & Lash Tint, Perming, Extensions, and Tabs</li>
               <li>Waxing</li>
               <li>Reflexology</li>
-              <li>Aromatherapy</li>
-              <li>CBD Treatments</li>
               <li>and More.....</li>
             </ul>
           </div>

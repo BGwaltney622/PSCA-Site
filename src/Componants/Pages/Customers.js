@@ -17,7 +17,6 @@ function Customers() {
           <ul>
             <li> Facials: </li>
             <ul>
-              <li>Mini Facial - $20</li>
               <li>Facial - $25*</li>
               <li>Deluxe Facial - $35*</li>
             </ul>
@@ -25,15 +24,14 @@ function Customers() {
             <li>Facial Add-ons:</li>
             <ul>
               <li>Microdermabrasion - $15</li>
-              <li>Galvanic Treatment - $15</li>
-              <li>Micro-current - $15</li>
+              <li>Mini Micro-current with LED - $15</li>
+              <li>Lymphatic Drainage - $10</li>
               <li>Nano Treatment - $15</li>
-              <li>New Face - $15</li>
               <li>High Frequency - $10</li>
               <li>Vacuum Pores - $10</li>
               <li>LED Light Therapy - $10</li>
               <li>Facial Cupping - $10</li>
-              <li>Jelly Mask - $10</li>
+              <li>Gel Mask With Bubbles - $15</li>
             </ul>
             <li>Waxing:</li>
             <ul>
@@ -48,52 +46,29 @@ function Customers() {
               <li>Back/Chest - $20*</li>
             </ul>
             <li>Make Up Application - $10</li>
-            <li>Brow or Lash Tints:</li>
-            <ul>
-              <li>Brow or Lash - $15</li>
-              <li>Both - $25</li>
-            </ul>
-            <li>Lash Lift - $25</li>
+            <li>Brow or Lash - $8</li>
+            <li>Lash Lift and Tint - $30</li>
+            <li>Brow Lamination and Tint - $30</li>
             <li>Lash Extensions - $40*</li>
             <p>* Prices Starting At</p>
           </ul>
         </div>
         <div className="p-2" style={iCourseStyle}>
-          <h4>Seasonal Facials</h4>
+          <h4>Proudly Using and Distributing:</h4>
           <img
-            src="TropicalBeachFacial.jpg"
+            src="Hale & Hush.png"
             className="img-fluid"
             alt=""
             style={facialStyle}
           />
           <img
-            src="Black_Cherry.png"
-            className="img-fluid"
-            alt=""
-            style={facialStyle}
-          />
-          <img
-            src="Charcoal Purity Facial 4x6.jpg"
+            src="Green_Envy.jpg"
             className="img-fluid"
             alt=""
             style={facialStyle}
           />
           <h5 style={contactStyle}>To Schedule Appointments Contact Us At:</h5>
           <h5>Phone: (214) 903-7318</h5>
-        </div>
-      </div>
-      <div className="d-flex flex-column align-self-center">
-        <div className="d-flex flex-row justify-content-center">
-          <h4>Proudly Using and Distributing:</h4>
-          <br />
-        </div>
-        <div className="d-flex flex-row flex-nowrap justify-content-between">
-          <div className="p-2 m-3 w-50">
-            <img src="Skin Script Logo.jpg" className="img-fluid" alt="" />
-          </div>
-          <div className="p-2 m-3 w-50">
-            <img src="Hale & Hush.png" className="img-fluid" alt="" />
-          </div>
         </div>
       </div>
     </div>
