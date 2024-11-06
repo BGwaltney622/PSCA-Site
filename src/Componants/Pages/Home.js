@@ -16,14 +16,14 @@ function Home() {
           <h3>About Our Academy</h3>
           <p>
             Professional Skin Care Academy is located in Waxahachie, Texas and
-            offers both full and part time class schedules for aspiring
-            estheticians and educators. Class size is limited to 12 students
-            which allows for a personalized learning environment. The curriculum
-            is approved by the Texas Department of Licensing and Regulation, and
-            completion of the program will prepare students to test for the
-            State License. In as little as 6 months, graduates will be starting
-            exciting new careers as licensed estheticians. To learn more, visit
-            our <a href="/Courses"> courses</a> page or feel free to{" "}
+            offers full time class schedules for aspiring estheticians and
+            educators. Class size is limited to 12 students which allows for a
+            personalized learning environment. The curriculum is approved by the
+            Texas Department of Licensing and Regulation, and completion of the
+            program will prepare students to test for the State License. In as
+            little as 6 months, graduates will be starting exciting new careers
+            as licensed estheticians. To learn more, visit our{" "}
+            <a href="/Courses"> courses</a> page or feel free to{" "}
             <a href="/Contact"> contact</a> us.
           </p>
         </div>

@@ -62,7 +62,7 @@ function Customers() {
             style={facialStyle}
           />
           <img
-            src="Green_Envy.jpg"
+            src="Skin Script Logo.jpg"
             className="img-fluid"
             alt=""
             style={facialStyle}
